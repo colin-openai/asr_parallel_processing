@@ -1,0 +1,13 @@
+# Data
+data/
+
+# Python helpers
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+
+# Chunk directories
+chunks*
+
+# Transcription-compare
+transcription-compare/
